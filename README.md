@@ -694,9 +694,10 @@ The result should be a technically defensible, business-validated hybrid AI plat
 
 
 
-flowchart TD
 
-```mermaid
+``` mermaid
+
+flowchart TD
 
     %% =========================================================
     %% 1. SOURCES AND CURRENT BUSINESS SYSTEMS
